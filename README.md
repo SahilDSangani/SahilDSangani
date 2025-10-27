@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Sahil Sangani
+# 👋 Hi, I'm [Sahil Sangani](https://sahildsangani.github.io/Portfolio)
 
 🎓 Junior at the University of Illinois Urbana-Champaign  
 📊 Studying **Statistics** with minors in **Data Science** and **Computer Science**  
 💡 Passionate about **Machine Learning, Data Science, and AI applications**
-
-Portfolio website: [sahildsangani.github.io/Portfolio](https://sahildsangani.github.io/Portfolio)
 
 ---
 
