@@ -18,7 +18,7 @@ I’m currently focused on building strong **technical, leadership, and communic
 ---
 
 ## 🛠️ Selected Projects
-- **Baseball Analytics Project** 🥇 *(iDSC Data Dive – 1st Place)*  
+- **[Baseball Analytics Project](https://github.com/SahilDSangani/team-The-Matpotlibs)** 🥇 *(iDSC Data Dive – 1st Place)*  
   Led an end-to-end analysis and modeling project, earning **1st place among 45+ teams**, with emphasis on feature engineering, visualization, and data storytelling.
 
 - **Cancer Detection & Classification (In Progress)**  
