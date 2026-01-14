@@ -1,57 +1,65 @@
-# 👋 Hi, I'm [Sahil Sangani](https://sahildsangani.github.io/Portfolio)
+# 👋 Hi, I’m [Sahil Sangani](https://sahildsangani.github.io/Portfolio)
 
-🎓 Junior at the University of Illinois Urbana-Champaign  
-📊 Studying **Statistics** with minors in **Data Science** and **Computer Science**  
-💡 Passionate about **Machine Learning, Data Science, and AI applications**
-
----
-
-## 🔭 What I'm Focusing On Now
-- Strengthening my foundation in **statistical modeling, machine learning, and data systems** through coursework.  
-- Expanding practical skills by learning **Python, SQL, and data science tools** through the **Codecademy platform**.  
-- Exploring **new frameworks** (deep learning, big data, and cloud platforms).  
-- Completing the **CodePath Data Science Course (Fall 2025 cohort)**.  
-- Engaging with the **UIUC Data Science Club** by collaborating on projects and attending workshops.  
+🎓 **Statistics** student at the **University of Illinois Urbana-Champaign**  
+📊 Minors in **Data Science** and **Computer Science**  
+🤖 Interested in **Machine Learning, Deep Learning, and Data Visualization**
 
 ---
 
-## 🛠️ Past Projects
-- [**Student Depression Risk Prediction Model**](https://github.com/SahilDSangani/Student-depression-detection)  
-  Achieved AUC = 0.936 using logistic regression; analyzed predictive factors such as sleep habits and stress levels.  
+## 🔭 Current Focus
+I’m currently focused on building strong **technical, leadership, and communication skills** through hands-on and collaborative experiences:
 
-- [**Q4 Consumer Spending Predictions**](https://github.com/SahilDSangani/synchrony-q4-spending-prediction) (UIUC Datathon)  
-  Built machine learning models to forecast Q4 spending for Synchrony customers using real-world data.  
-
-- [**Exploratory Data Projects in Regression & Visualization**](https://github.com/SahilDSangani/mini-data-projects)  
-  Practiced EDA, regression modeling, and visualization using Python.  
-
----
-
-## 🚀 What I Want to Achieve
-- Expand my expertise into **Deep Learning (TensorFlow, PyTorch)** and **Big Data tools (Spark, AWS, GCP)**.  
-- Apply data science and AI techniques to impactful projects in **healthcare, finance, and social good**.  
-- Secure internships where I can **contribute to real-world ML pipelines** and grow as a data scientist/ML engineer.  
-- Long-term: Build end-to-end **AI-driven systems** that improve decision-making and accessibility.
+- Competing in **hackathons and datathons** to strengthen teamwork and applied problem-solving  
+- Exploring **graduate school options**, with interest in a **Master’s in Machine Learning or related fields**  
+- Developing leadership skills through RSOs, including serving as a **Project Lead for the UIUC Data Science Club (iDSC)**  
+- Deepening my understanding of **Deep Learning**, which I began exploring last semester  
+- Preparing for **data science and ML interviews** through **CodePath Technical Interview Prep 103** and independent practice  
 
 ---
 
-## 📚 Current Courses
-This semester, I’m enrolled in:
-- **Statistical Modeling 1**   
-- **Intro to Data Mining**
-- **Model and Learning in Data Science**
-- **Statistical Programming Methods**
-- **Environmental Data Science**
-  
+## 🛠️ Selected Projects
+- **Baseball Analytics Project** 🥇 *(iDSC Data Dive – 1st Place)*  
+  Led an end-to-end analysis and modeling project, earning **1st place among 45+ teams**, with emphasis on feature engineering, visualization, and data storytelling.
 
-In addition, I’m completing:
-- **CodePath Technical Interview Prep 102**
+- **Cancer Detection & Classification (In Progress)**  
+  Developing a machine learning pipeline using **gene expression data**, focusing on preprocessing, exploratory analysis, and model selection in a research-oriented setting.
+
+- **Student Depression Risk Prediction Model**  
+  Built a logistic regression model achieving **AUC = 0.936**, analyzing predictors such as sleep habits and stress levels.
+
+- **Exploratory Data Analysis & Visualization Projects**  
+  A collection of mini-projects practicing **EDA, regression, and data visualization** using Python.
+
+---
+
+## 🚀 Goals
+- Secure **machine learning or data science internships / research opportunities**  
+- Expand expertise in **Deep Learning** (TensorFlow, PyTorch)  
+- Gain experience with **Big Data & Cloud tools** (Spark, AWS, GCP)  
+- Apply ML and data science to problems in **healthcare, finance, and social impact**
+
+---
+
+## 📚 Coursework
+**Currently Enrolled**
+- Statistical Modeling I  
+- Time Series Analysis  
+- Statistical Data Management  
+- Data Ethics  
+- Elementary Hindi-Urdu II  
+
+**Additional Programs**
+- CodePath **Technical Interview Prep 103**  
+- CodePath **Foundations of AI Engineering**
 
 ---
 
 ## 🤝 Involvement
-- Member of the **UIUC Data Science Club**, working on collaborative projects and attending workshops.  
-- Networking with peers and professionals at tech conferences & datathons.
+- **UIUC Data Science Club (iDSC)** — *Project Lead*  
+- Participating in **datathons, networking events, and career development workshops**
+
+**Clubs I’m Exploring**
+- StatCom · Project Code · NeuroTech · Deckonomics · Data Science Development Group  
 
 ---
 
@@ -69,3 +77,6 @@ Outside of academics and coding, I enjoy:
 - 📧 Email: [sahildsangani@gmail.com](mailto:sahildsangani@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sahildsangani](https://linkedin.com/in/sahildsangani)  
 - 🐙 GitHub: [github.com/SahilDSangani](https://github.com/SahilDSangani)
+
+Feel free to reach out in any way — I’d love to connect.  
+💬 **Conversation starter:** What’s your favorite machine learning model, and why?
