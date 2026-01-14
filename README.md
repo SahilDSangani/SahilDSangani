@@ -18,16 +18,21 @@ I’m currently focused on building strong **technical, leadership, and communic
 ---
 
 ## 🛠️ Selected Projects
-- **[Baseball Analytics Project](https://github.com/SahilDSangani/team-The-Matpotlibs)** 🥇 *(iDSC Data Dive – 1st Place)*  
-  Led an end-to-end analysis and modeling project, earning **1st place among 45+ teams**, with emphasis on feature engineering, visualization, and data storytelling.
+- **[MLB Player Value Prediction](https://github.com/SahilDSangani/team-The-Matpotlibs)** 🥇 *(iDSC Data Dive – 1st Place)*  
+  Led an end-to-end data science project predicting MLB player WAR using **PCA and Gradient Boosting**, with emphasis on **interpretability and actionable insights**.
+  Won **1st place** after presenting results to academic and industry judges.
 
-- **Cancer Detection & Classification (In Progress)**  
+- **[Cancer Detection & Classification](https://github.com/SahilDSangani/Genetics-Project) (In Progress)**  
   Developing a machine learning pipeline using **gene expression data**, focusing on preprocessing, exploratory analysis, and model selection in a research-oriented setting.
 
-- **Student Depression Risk Prediction Model**  
+- **[Fourth-Down Decision Modeling](https://github.com/SahilDSangani/fourth_down_decision_model)**  
+  Built predictive models for fourth-down conversion success using NFL play-by-play data, achieving **AUC ≈ 0.68** across logistic regression and neural networks.
+  Evaluated trade-offs between model complexity and performance on noisy, real-world data.
+
+- **[Student Depression Risk Prediction Model](https://github.com/SahilDSangani/Student-depression-detection)**  
   Built a logistic regression model achieving **AUC = 0.936**, analyzing predictors such as sleep habits and stress levels.
 
-- **Exploratory Data Analysis & Visualization Projects**  
+- **[Exploratory Data Analysis & Visualization Projects](https://github.com/SahilDSangani/mini-data-projects)**  
   A collection of mini-projects practicing **EDA, regression, and data visualization** using Python.
 
 ---
