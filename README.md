@@ -47,11 +47,11 @@ I’m currently focused on building strong **technical, leadership, and communic
 
 ## 📚 Coursework
 **Currently Enrolled**
-- Statistical Modeling I  
-- Time Series Analysis  
-- Statistical Data Management  
-- Data Ethics  
-- Elementary Hindi-Urdu II  
+- STAT425: Statistical Modeling I  
+- STAT429: Time Series Analysis  
+- STAT440: Statistical Data Management  
+- CS398: Applied LLMs
+- CS446: Machine Learning
 
 **Additional Programs**
 - CodePath **Technical Interview Prep 103**  
