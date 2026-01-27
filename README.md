@@ -54,8 +54,8 @@ I’m currently focused on building strong **technical, leadership, and communic
 - CS446: Machine Learning
 
 **Additional Programs**
-- CodePath **Technical Interview Prep 103**  
-- CodePath **Foundations of AI Engineering**
+- TIP103: CodePath **Advanced Technical Interview Prep**  
+- AI110: CodePath **Foundations of AI Engineering**
 
 ---
 
