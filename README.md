@@ -71,9 +71,9 @@ I’m currently focused on building strong **technical, leadership, and communic
 ## 🎨 Beyond Tech
 Outside of academics and coding, I enjoy:
 - 🎮 Gaming (video games & board games, especially strategy-based ones)  
-- 🎾 Playing and following tennis  
+- 🎾 Playing racquet sports (tennis)  
+- 🏋️ Working out & staying active
 - 🏈 Following the NFL & managing fantasy football teams  
-- 🏋️ Working out & staying active  
 - 🎬 Watching movies (always open to new recommendations!)  
 
 ---
