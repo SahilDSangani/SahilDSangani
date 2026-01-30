@@ -22,8 +22,9 @@ I’m currently focused on building strong **technical, leadership, and communic
   Led an end-to-end data science project predicting MLB player WAR using **PCA and Gradient Boosting**, with emphasis on **interpretability and actionable insights**.
   Won **1st place** after presenting results to academic and industry judges.
 
-- **[Cancer Detection & Classification](https://github.com/SahilDSangani/Genetics-Project) (In Progress)**  
-  Developing a machine learning pipeline using **gene expression data**, focusing on preprocessing, exploratory analysis, and model selection in a research-oriented setting.
+- **[StatGenie: Local NL2SQL Data Agent](https://github.com/SahilDSangani/NL2SQL)** (In Progress)
+  A personal sandbox exploring the intersection of Agentic AI and local LLMs to bridge the gap between human intent and structured sports data.
+  This project serves as a laboratory for mastering schema-aware prompting and engineering iterative clarification loops to navigate the technical challenges of autonomous agents.
 
 - **[Fourth-Down Decision Modeling](https://github.com/SahilDSangani/fourth_down_decision_model)**  
   Built predictive models for fourth-down conversion success using NFL play-by-play data, achieving **AUC ≈ 0.68** across logistic regression and neural networks.
@@ -34,6 +35,9 @@ I’m currently focused on building strong **technical, leadership, and communic
 
 - **[Exploratory Data Analysis & Visualization Projects](https://github.com/SahilDSangani/mini-data-projects)**  
   A collection of mini-projects practicing **EDA, regression, and data visualization** using Python.
+
+- **[Cancer Detection & Classification](https://github.com/SahilDSangani/Genetics-Project) (next up)**  
+  Developing a machine learning pipeline using **gene expression data**, focusing on preprocessing, exploratory analysis, and model selection in a research-oriented setting.
 
 ---
 
