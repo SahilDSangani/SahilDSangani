@@ -64,7 +64,17 @@ I’m currently focused on building strong **technical, leadership, and communic
 ---
 
 ## 🤝 Involvement
+
 - **UIUC Data Science Club (iDSC)** — *Project Lead*  
+  Lead project teams through end-to-end data science workflows, from scoping problems to presenting results.
+
+- **Agentic AI Club** — *Developer*  
+  Collaborate in teams to design and build LLM-powered agent architectures.  
+  Currently working on an **Equity Research Agentic Tool**, focused on structured reasoning, tool integration, and multi-step decision workflows.
+
+- **Catan Club** — *Member*  
+  Weekly board game nights centered around strategy, probability, negotiation, and (occasionally) longest road domination.
+
 - Participating in **datathons, networking events, and career development workshops**
 
 **Clubs I’m Exploring**
