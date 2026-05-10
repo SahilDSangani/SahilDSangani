@@ -98,4 +98,3 @@ Outside of academics and coding, I enjoy:
 - 🐙 GitHub: [github.com/SahilDSangani](https://github.com/SahilDSangani)
 
 Feel free to reach out in any way — I’d love to connect.  
-💬 **Conversation starter:** What’s your favorite machine learning model, and why?
