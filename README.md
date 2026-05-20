@@ -25,6 +25,11 @@ I’m currently focused on building strong **technical, leadership, and communic
 - **[StatGenie: Local NL2SQL Data Agent](https://github.com/SahilDSangani/NL2SQL)** (In Progress)
   A personal sandbox exploring the intersection of Agentic AI and local LLMs to bridge the gap between human intent and structured sports data.
   This project serves as a laboratory for mastering schema-aware prompting and engineering iterative clarification loops to navigate the technical challenges of autonomous agents.
+
+- **[Data Wrangler](https://github.com/SahilDSangani/Data-Wrangler)**
+  Built an interactive **R Shiny** application for no-code data wrangling and preprocessing.
+  Features live dataframe previews, type conversion, filtering, missing value imputation, export tools, and a multi-state undo system for safe experimentation with transformations.
+  Designed to make data cleaning workflows more accessible for non-technical users while maintaining transparency into each transformation step.
   
 - **[Fourth-Down Decision Modeling](https://github.com/SahilDSangani/fourth_down_decision_model)**  
   Built predictive models for fourth-down conversion success using NFL play-by-play data, achieving **AUC ≈ 0.68** across logistic regression and neural networks.
@@ -35,9 +40,6 @@ I’m currently focused on building strong **technical, leadership, and communic
 
 - **[Exploratory Data Analysis & Visualization Projects](https://github.com/SahilDSangani/mini-data-projects)**  
   A collection of mini-projects practicing **EDA, regression, and data visualization** using Python.
-
-- **[Cancer Detection & Classification](https://github.com/SahilDSangani/Genetics-Project) (next up)**  
-  Developing a machine learning pipeline using **gene expression data**, focusing on preprocessing, exploratory analysis, and model selection in a research-oriented setting.
 
 ---
 
@@ -78,7 +80,7 @@ I’m currently focused on building strong **technical, leadership, and communic
 - Participating in **datathons, networking events, and career development workshops**
 
 **Clubs I’m Exploring**
-- StatCom · Project Code · NeuroTech · Deckonomics · Data Science Development Group  
+- StatCom · Project Code · NeuroTech · Data Science Development Group  
 
 ---
 
