@@ -95,6 +95,10 @@ Outside of academics and coding, I enjoy:
 ---
 
 ## 📫 Let’s Connect
+
+Most of the projects I work on start from either a real problem I’ve encountered, a workflow I think can be improved, or a new concept I want to understand more deeply by applying it in practice.  
+If you’re building something ambitious or impactful, feel free to reach out — I’m always interested in collaborating with people who enjoy turning ideas into real tools.
+
 - 📧 Email: [sahildsangani@gmail.com](mailto:sahildsangani@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sahildsangani](https://linkedin.com/in/sahildsangani)  
 - 🐙 GitHub: [github.com/SahilDSangani](https://github.com/SahilDSangani)
