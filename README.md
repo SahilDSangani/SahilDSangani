@@ -17,6 +17,14 @@ I’m currently focused on building strong **technical, leadership, and communic
 
 ---
 
+## 🧠 Research Interests
+
+I am interested in studying how intelligence, reasoning, and behavior can be represented through statistical and computational systems. What initially fascinated me about machine learning was the realization that many algorithms mirror the way humans naturally think and make decisions. I became especially interested in how researchers translate patterns of reasoning and learning into mathematical frameworks that computers can use, from similarity-based methods such as k-nearest neighbors to more complex neural architectures.
+
+This idea of modeling cognition through computation continues to shape my interests in statistical learning, interpretability, model behavior, and computational social science, particularly in understanding both human and machine decision-making. Through independent work in predictive modeling, time series analysis, and agentic systems, I’ve become increasingly interested in building models that are not only effective, but also interpretable, adaptive, and aligned with real-world human behavior.
+
+---
+
 ## 🛠️ Selected Projects
 - **[MLB Player Value Prediction](https://github.com/SahilDSangani/team-The-Matpotlibs)** 🥇 *(iDSC Data Dive – 1st Place)*
   Led an end-to-end data science project predicting MLB player WAR using **PCA and Gradient Boosting**, with emphasis on **interpretability and actionable insights**.
